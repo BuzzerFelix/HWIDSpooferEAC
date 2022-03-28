@@ -1,5 +1,5 @@
 # HWIDSpooferEAC
-HWID Spoofer EAC(Compiled by Megustax)
+HWID Spoofer EAC(Source Code by Megustax, Compiled by Me)
 
 Enjoy :D
 
